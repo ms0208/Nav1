@@ -91,7 +91,7 @@ a:hover,a.active{
     left:0;
 }
 section{
-    background: url(Web1.jpg) no-repeat;
+    background: url(Web.jpg) no-repeat;
     background-size: cover; 
     height: calc(100vh - 80px);
 }
